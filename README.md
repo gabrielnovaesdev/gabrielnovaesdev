@@ -1,1 +1,44 @@
-https://camo.githubusercontent.com/88b8bdce872268b3d0d7ec69e16716a0adf8fa0165eb6069bcb49e23bd5550ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b
+# 👋 Olá, eu sou Gabriel Novaes
+
+💻 Estudante de tecnologia apaixonado por desenvolvimento de software, Inteligência Artificial e criação de soluções digitais.
+
+🚀 Atualmente adquirindo experiência prática através do estágio, desenvolvendo projetos e aprimorando constantemente minhas habilidades técnicas.
+
+🤖 Interesse em Inteligência Artificial Generativa, Engenharia de Prompts e automação de processos.
+
+## 🛠️ Tecnologias
+
+- Python
+- JavaScript
+- HTML5
+- CSS3
+
+## ⚙️ Ferramentas
+
+### Desenvolvimento
+- Git
+- GitHub
+- VS Code
+
+### Inteligência Artificial
+- Claude
+
+## 🚀 Projetos em Destaque
+
+### 🎵 Spotify Clone
+Projeto Front-End inspirado no Spotify, desenvolvido para praticar JavaScript, responsividade e construção de interfaces modernas focadas na experiência do usuário.
+
+### 💈 BarberGo
+Projeto acadêmico desenvolvido em equipe com foco em inovação, propondo uma plataforma que conecta clientes e barbeiros para atendimento domiciliar de forma prática e acessível.
+
+## 🌱 Atualmente
+
+- Aprimorando conhecimentos em Desenvolvimento Web
+- Explorando aplicações de Inteligência Artificial
+- Desenvolvendo projetos para expandir meu portfólio
+- Adquirindo experiência profissional através do estágio
+
+## 📫 Contato
+
+- LinkedIn: linkedin.com/in/gabrielnovaesdev
+- GitHub: github.com/gabrielnovaesdev
