@@ -20,6 +20,7 @@
 * Git
 * GitHub
 * VS Code
+* Docker
 
 ### Inteligência Artificial
 
