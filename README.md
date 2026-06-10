@@ -21,10 +21,14 @@
 * GitHub
 * VS Code
 * Docker
+* Word Press
 
 ### Inteligência Artificial
 
 * Claude
+* Gemini
+* Notebook Lm
+* Chat GPT
 
 ## 🚀 Projetos em Destaque
 
