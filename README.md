@@ -27,7 +27,7 @@
 
 * Claude
 * Gemini
-* Notebook Lm
+* Notebook LM
 * Chat GPT
 
 ## 🚀 Projetos em Destaque
