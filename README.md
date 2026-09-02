@@ -14,7 +14,7 @@
 ### 🚀 Sobre mim
 
 - 💻 Atualmente adquirindo experiência prática através de estágio, desenvolvendo projetos e aprimorando constantemente minhas habilidades técnicas
-- 🤖 Interesse em **Inteligência Artificial Generativa**, **Engenharia de Prompts** e automação de processos
+- 🤖 Interesse em **Inteligência Artificial Generativa**, **Engenharia de Prompts** e **Automação de Processos**
 - 🎯 Busco usar tecnologia para aumentar produtividade e otimizar tarefas do dia a dia
 
 ### 🛠️ Tecnologias
