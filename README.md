@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Gabriel Novaes
+# Bem vindo ao meu repositório, eu sou Gabriel Novaes
 
 **Estudante de tecnologia apaixonado por desenvolvimento de software, Inteligência Artificial e criação de soluções digitais**
 
