@@ -2,7 +2,7 @@
 
 <br>
 
-Olá! Sou o **Gabriel**, estudante de tecnologia e estagiário. Construo interfaces web modernas e uso **IA generativa** como parte do processo, do protótipo ao deploy.
+Olá! Sou o **Gabriel**, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor front-end. Construo interfaces web modernas e uso **IA generativa** como parte do processo, do protótipo ao deploy.
 
 Gosto de projetos que juntam visual cuidadoso e engenharia de verdade: uma loja com checkout via Pix e webhooks seguros, um site com cena 3D em WebGL, uma vitrine com animações em vídeo otimizadas para a web.
 
@@ -83,10 +83,9 @@ Gosto de projetos que juntam visual cuidadoso e engenharia de verdade: uma loja 
 
 ## Agora
 
-- Ganhando experiência prática no estágio
 - Aprofundando em React, TypeScript e back-end serverless com Supabase
 - Estudando automação de processos com IA
 
 <br>
 
-<sub>Aberto a conversar sobre estágio, projetos e oportunidades. Me chame no <a href="https://linkedin.com/in/gabrielnovaesdev">LinkedIn</a>.</sub>
+<sub>Aberto a oportunidades e projetos. Me chame no <a href="https://linkedin.com/in/gabrielnovaesdev">LinkedIn</a>.</sub>
