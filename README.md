@@ -1,100 +1,92 @@
-<div align="center">
+<img src="assets/banner.svg" alt="Gabriel Novaes, desenvolvedor web" width="100%">
 
-# Bem vindo ao meu repositório, eu sou Gabriel Novaes
+<br>
 
-**Estudante de tecnologia apaixonado por desenvolvimento de software, Inteligência Artificial e criação de soluções digitais**
+Olá! Sou o **Gabriel**, estudante de tecnologia e estagiário. Construo interfaces web modernas e uso **IA generativa** como parte do processo, do protótipo ao deploy.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielnovaesdev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielnovaesdev)
+Gosto de projetos que juntam visual cuidadoso e engenharia de verdade: uma loja com checkout via Pix e webhooks seguros, um site com cena 3D em WebGL, uma vitrine com animações em vídeo otimizadas para a web.
 
-</div>
+<p>
+  <a href="https://linkedin.com/in/gabrielnovaesdev"><img src="https://img.shields.io/badge/LinkedIn-gabrielnovaesdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://komarev.com/ghpvc/?username=gabrielnovaesdev&label=visitas&color=7c5cff&style=flat-square" alt="Visitas ao perfil">
+</p>
 
----
-
-### 🚀 Sobre mim
-
-- 💻 Atualmente adquirindo experiência prática através de estágio, desenvolvendo projetos e aprimorando constantemente minhas habilidades técnicas
-- 🤖 Interesse em **Inteligência Artificial Generativa**, **Engenharia de Prompts** e **Automação de Processos**
-- 🎯 Busco usar tecnologia para aumentar produtividade e otimizar tarefas do dia a dia
-
-### 🛠️ Tecnologias
-
-<div>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-### ⚙️ Ferramentas
-
-**Desenvolvimento**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-000000?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-**Inteligência Artificial**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-### 🚀 Projetos em Destaque
+## Projetos em destaque
 
 <table>
-<tr>
-<td width="33%" valign="top">
-
-**🛍️ [NovaeStore](https://github.com/gabrielnovaesdev/NovaeStore)**
-
-Loja virtual completa com checkout via Pix, backend serverless em Supabase e frontend em React + TypeScript.
-
-</td>
-<td width="33%" valign="top">
-
-**🎵 Spotify Clone**
-
-Projeto Front-End inspirado no Spotify, desenvolvido para praticar JavaScript, responsividade e construção de interfaces modernas focadas na experiência do usuário.
-
-</td>
-<td width="33%" valign="top">
-
-**💈 BarberGo**
-
-Projeto acadêmico desenvolvido em equipe, propondo uma plataforma que conecta clientes e barbeiros para atendimento domiciliar de forma prática e acessível.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://gabrielnovaesdev.github.io/NovaeStore/"><img src="assets/novaestore.webp" alt="Página inicial da NovaeStore" width="100%"></a>
+      <h3>NovaeStore</h3>
+      <p>Loja de jogos digitais com carrinho, checkout via <b>Pix</b>, acompanhamento do pagamento em tempo real e webhook com autenticação resistente a ataques de tempo.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>Edge Functions</code> <code>Postgres</code></p>
+      <a href="https://gabrielnovaesdev.github.io/NovaeStore/">Ver ao vivo</a> · <a href="https://github.com/gabrielnovaesdev/NovaeStore">Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://nebulaproject-nu.vercel.app"><img src="assets/nebula.webp" alt="Abertura do site Nébula com o orbe 3D" width="100%"></a>
+      <h3>Nébula</h3>
+      <p>Site de um estúdio fictício com <b>orbe de vidro líquido em WebGL</b>, 7 mil partículas em órbita e rolagem cinematográfica, sem nenhum framework.</p>
+      <p><code>Three.js</code> <code>GSAP</code> <code>Lenis</code> <code>JavaScript</code></p>
+      <a href="https://nebulaproject-nu.vercel.app">Ver ao vivo</a> · <a href="https://github.com/gabrielnovaesdev/Nebula">Código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/gabrielnovaesdev/Iphone"><img src="assets/orbita.webp" alt="Página inicial da Órbita, loja da linha iPhone 17" width="100%"></a>
+      <h3>Órbita</h3>
+      <p>Vitrine da linha iPhone 17 com as animações oficiais dos aparelhos, convertidas para <b>WebM</b>: 80% mais leves e em loop contínuo.</p>
+      <p><code>JavaScript</code> <code>GSAP</code> <code>Node.js</code> <code>ffmpeg</code></p>
+      <a href="https://github.com/gabrielnovaesdev/Iphone">Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://gabrielnovaesdev.github.io/Clone-de-Interface-do-Spotify/"><img src="assets/spotify.webp" alt="Clone da página inicial do Spotify" width="100%"></a>
+      <h3>Clone do Spotify</h3>
+      <p>Recriação responsiva da landing page do Spotify, feita para treinar layout, semântica e responsividade.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>Bootstrap</code></p>
+      <a href="https://gabrielnovaesdev.github.io/Clone-de-Interface-do-Spotify/">Ver ao vivo</a> · <a href="https://github.com/gabrielnovaesdev/Clone-de-Interface-do-Spotify">Código</a>
+    </td>
+  </tr>
 </table>
 
-### 🌱 Atualmente
+<details>
+<summary><b>Outros repositórios</b></summary>
 
-- 📚 Aprimorando conhecimentos em Desenvolvimento Web
-- 🤖 Explorando aplicações de Inteligência Artificial
-- ⚙️ Estudando automação de processos com tecnologia
-- 📁 Desenvolvendo projetos para expandir meu portfólio
-- 💼 Adquirindo experiência profissional através do estágio
+<br>
 
-### 📫 Contato
+| Projeto | O que é | Stack |
+|---|---|---|
+| [BarberGo](https://github.com/gabrielnovaesdev/BarberGo) | App de agendamento para barbearias, com mapa e calendário | React Native, Expo |
+| [APS_POO](https://github.com/gabrielnovaesdev/APS_POO) | Projeto acadêmico em grupo de Programação Orientada a Objetos | Java |
+| [Estudos](https://github.com/gabrielnovaesdev/Estudos) | Exercícios e desafios de programação | Vários |
+| [Estudos-C](https://github.com/gabrielnovaesdev/Estudos-C) | Lógica e algoritmos em C | C |
 
-[![LinkedIn](https://img.shields.io/badge/-gabrielnovaesdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielnovaesdev)
-[![GitHub](https://img.shields.io/badge/-gabrielnovaesdev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielnovaesdev)
+</details>
 
----
+## Stack
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,vite,supabase,postgres,threejs&perline=10" alt="TypeScript, JavaScript, React, HTML, CSS, Node.js, Vite, Supabase, Postgres, Three.js">
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,git,github,vscode,vercel,docker,wordpress&perline=10" alt="Python, C, Java, Git, GitHub, VS Code, Vercel, Docker, WordPress">
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gabrielnovaesdev&color=blueviolet&style=flat-square)
+**IA no dia a dia:** uso modelos generativos para prototipar, revisar código e automatizar tarefas repetitivas.
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Claude-18181b?style=flat-square&logo=claude&logoColor=D97757" alt="Claude">
+  <img src="https://img.shields.io/badge/Gemini-18181b?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini">
+  <img src="https://img.shields.io/badge/ChatGPT-18181b?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Google_AI_Studio-18181b?style=flat-square&logo=google&logoColor=4285F4" alt="Google AI Studio">
+  <img src="https://img.shields.io/badge/NotebookLM-18181b?style=flat-square&logo=googlegemini&logoColor=white" alt="NotebookLM">
+</p>
+
+## Agora
+
+- Ganhando experiência prática no estágio
+- Aprofundando em React, TypeScript e back-end serverless com Supabase
+- Estudando automação de processos com IA
+
+<br>
+
+<sub>Aberto a conversar sobre estágio, projetos e oportunidades. Me chame no <a href="https://linkedin.com/in/gabrielnovaesdev">LinkedIn</a>.</sub>
