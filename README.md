@@ -16,7 +16,7 @@ Gosto de projetos que juntam design e engenharia: um site com cena 3D em WebGL, 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://nebulaproject-nu.vercel.app"><img src="assets/nebula.webp" alt="Abertura do site Nébula com o orbe 3D" width="100%"></a>
+      <a href="https://nebulaproject-nu.vercel.app"><img src="assets/nebula.webp" alt="Hero do site Nébula com o orbe de vidro e o anel de partículas" width="100%"></a>
       <h3>Nébula</h3>
       <p>Site de um estúdio fictício com <b>orbe de vidro líquido em WebGL</b>, 7 mil partículas em órbita e rolagem cinematográfica, sem nenhum framework.</p>
       <p><code>Three.js</code> <code>GSAP</code> <code>Lenis</code> <code>JavaScript</code></p>
