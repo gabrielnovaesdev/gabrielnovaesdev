@@ -2,7 +2,7 @@
 
 <br>
 
-Olá! Sou o **Gabriel**, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor front-end. Crio sites e interfaces com foco em visual cuidadoso, animação fluida e bom desempenho.
+Olá! Sou o **Gabriel**, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor front-end. Crio sites e interfaces com foco em visual cuidadoso, animação fluida e bom desempenho, e uso **IA generativa** como parte do processo, do protótipo ao deploy.
 
 Gosto de projetos que juntam design e engenharia: um site com cena 3D em WebGL, uma vitrine com vídeos otimizados para a web, o site institucional de uma clínica e escola, uma loja com checkout via Pix.
 
@@ -79,11 +79,21 @@ Gosto de projetos que juntam design e engenharia: um site com cena 3D em WebGL, 
   <img src="https://skillicons.dev/icons?i=python,c,java,git,github,vscode,vercel,docker,wordpress&perline=10" alt="Python, C, Java, Git, GitHub, VS Code, Vercel, Docker, WordPress">
 </p>
 
+**IA no dia a dia:** uso modelos generativos para prototipar, revisar código e automatizar tarefas repetitivas.
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-18181b?style=flat-square&logo=claude&logoColor=D97757" alt="Claude">
+  <img src="https://img.shields.io/badge/Gemini-18181b?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini">
+  <img src="https://img.shields.io/badge/ChatGPT-18181b?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Google_AI_Studio-18181b?style=flat-square&logo=google&logoColor=4285F4" alt="Google AI Studio">
+  <img src="https://img.shields.io/badge/NotebookLM-18181b?style=flat-square&logo=googlegemini&logoColor=white" alt="NotebookLM">
+</p>
+
 ## Agora
 
 - Aprofundando em React, TypeScript e back-end serverless com Supabase
 - Estudando animação para a web com GSAP e WebGL
-- Construindo novos projetos para o portfólio
+- Estudando automação de processos com IA
 
 <br>
 
