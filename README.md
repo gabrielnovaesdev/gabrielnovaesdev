@@ -32,11 +32,11 @@ Gosto de projetos que juntam design e engenharia: um site com cena 3D em WebGL, 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/gabrielnovaesdev/Iphone"><img src="assets/orbita.webp" alt="Página inicial da Órbita, loja da linha iPhone 17" width="100%"></a>
+      <a href="https://orbita-eta-three.vercel.app/"><img src="assets/orbita.webp" alt="Página inicial da Órbita, loja da linha iPhone 17" width="100%"></a>
       <h3>Órbita</h3>
       <p>Vitrine da linha iPhone 17 com os aparelhos em movimento. Os vídeos foram convertidos para <b>WebM</b>: 80% mais leves e em loop contínuo.</p>
       <p><code>JavaScript</code> <code>GSAP</code> <code>Node.js</code> <code>ffmpeg</code></p>
-      <a href="https://github.com/gabrielnovaesdev/Iphone">Código</a>
+      <a href="https://orbita-eta-three.vercel.app/">Ver ao vivo</a> · <a href="https://github.com/gabrielnovaesdev/Iphone">Código</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://gabrielnovaesdev.github.io/Clone-de-Interface-do-Spotify/"><img src="assets/spotify.webp" alt="Clone da página inicial do Spotify" width="100%"></a>
