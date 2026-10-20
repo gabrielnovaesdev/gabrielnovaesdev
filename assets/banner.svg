@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-labelledby="t d">
   <title id="t">Gabriel Novaes, desenvolvedor front-end</title>
-  <desc id="d">Interfaces com React e TypeScript, experiências 3D com Three.js e animações com GSAP.</desc>
+  <desc id="d">Interfaces com React e TypeScript, experiências 3D com Three.js, animações com GSAP e IA aplicada ao desenvolvimento.</desc>
   <defs>
     <clipPath id="nameClip"><rect x="40" y="96" width="700" height="96"/></clipPath>
     <clipPath id="roleClip"><rect x="40" y="200" width="700" height="44"/></clipPath>
@@ -24,15 +24,15 @@
     @keyframes fade { to { opacity: 1 } }
     .name { transform: translateY(100px); animation: up 1.1s cubic-bezier(.22,1,.36,1) .15s forwards; }
     @keyframes up { to { transform: none } }
-    .c1 { animation-delay: .9s } .c2 { animation-delay: 1s } .c3 { animation-delay: 1.1s } .c4 { animation-delay: 1.2s } .c5 { animation-delay: 1.3s }
+    .c1 { animation-delay: .9s } .c2 { animation-delay: 1s } .c3 { animation-delay: 1.1s } .c4 { animation-delay: 1.2s } .c5 { animation-delay: 1.3s } .c6 { animation-delay: 1.4s }
 
     /* Especialidades alternando */
-    .role { transform: translateY(44px); animation: role 12s cubic-bezier(.65,0,.35,1) infinite; }
-    .r1 { animation-delay: .6s } .r2 { animation-delay: 4.6s } .r3 { animation-delay: 8.6s }
+    .role { transform: translateY(44px); animation: role 16s cubic-bezier(.65,0,.35,1) infinite; }
+    .r1 { animation-delay: .6s } .r2 { animation-delay: 4.6s } .r3 { animation-delay: 8.6s } .r4 { animation-delay: 12.6s }
     @keyframes role {
       0% { transform: translateY(44px) }
-      6%, 30% { transform: none }
-      36%, 100% { transform: translateY(-44px) }
+      4.5%, 22.5% { transform: none }
+      27%, 100% { transform: translateY(-44px) }
     }
 
     /* Órbitas se desenhando */
@@ -67,6 +67,7 @@
     <text class="muted role r1" x="64" y="230">Interfaces com React e TypeScript</text>
     <text class="muted role r2" x="64" y="230">Experiências 3D com Three.js e WebGL</text>
     <text class="muted role r3" x="64" y="230">Animações e rolagem com GSAP e Lenis</text>
+    <text class="muted role r4" x="64" y="230">IA generativa no fluxo de desenvolvimento</text>
   </g>
 
   <!-- Stack -->
@@ -76,6 +77,7 @@
     <g class="fade c3"><rect class="chip" x="258" y="272" width="92" height="30" rx="15"/><text class="ink" x="304" y="292" text-anchor="middle">Three.js</text></g>
     <g class="fade c4"><rect class="chip" x="358" y="272" width="70" height="30" rx="15"/><text class="ink" x="393" y="292" text-anchor="middle">GSAP</text></g>
     <g class="fade c5"><rect class="chip" x="436" y="272" width="96" height="30" rx="15"/><text class="ink" x="484" y="292" text-anchor="middle">Supabase</text></g>
+    <g class="fade c6"><rect class="chip" x="540" y="272" width="46" height="30" rx="15"/><text class="ink" x="563" y="292" text-anchor="middle">IA</text></g>
   </g>
 
   <!-- Sistema orbital -->
