@@ -4,7 +4,7 @@
 
 Olá! Sou o **Gabriel**, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor front-end. Crio sites e interfaces com foco em visual cuidadoso, animação fluida e bom desempenho, e uso **IA generativa** como parte do processo, do protótipo ao deploy.
 
-Gosto de projetos que juntam design e engenharia: um site com cena 3D em WebGL, uma vitrine com vídeos otimizados para a web, o site institucional de uma clínica e escola, uma loja com checkout via Pix.
+Gosto de projetos que juntam design e engenharia: uma jornada 3D guiada pela rolagem, um site com cena 3D em WebGL, uma vitrine com vídeos otimizados para a web, o site institucional de uma clínica e escola, uma loja com checkout via Pix.
 
 <p>
   <a href="https://linkedin.com/in/gabrielnovaesdev"><img src="https://img.shields.io/badge/LinkedIn-gabrielnovaesdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -14,6 +14,15 @@ Gosto de projetos que juntam design e engenharia: um site com cena 3D em WebGL, 
 ## Projetos em destaque
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://monolito-three.vercel.app"><img src="assets/monolito.webp" alt="Hero do site Monólito: um monólito de pedra no deserto ao entardecer" width="100%"></a>
+      <h3>Monólito</h3>
+      <p>Site de um estúdio de arquitetura fictício feito como <b>uma única jornada 3D guiada pela rolagem</b>: um monólito no deserto se abre, a câmera atravessa um corredor de luz e entra em quatro projetos em escala real, com HDRIs reais, pós-processamento cinematográfico e edifícios modelados no Blender.</p>
+      <p><code>Three.js</code> <code>WebGL</code> <code>GSAP</code> <code>Lenis</code> <code>Blender</code> <code>JavaScript</code></p>
+      <a href="https://monolito-three.vercel.app">Ver ao vivo</a> · <a href="https://github.com/gabrielnovaesdev/monolito">Código</a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://nebulaproject-nu.vercel.app"><img src="assets/nebula.webp" alt="Hero do site Nébula com o orbe de vidro e o anel de partículas" width="100%"></a>
@@ -76,7 +85,7 @@ Gosto de projetos que juntam design e engenharia: um site com cena 3D em WebGL, 
   <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,vite,supabase,postgres,threejs&perline=10" alt="TypeScript, JavaScript, React, HTML, CSS, Node.js, Vite, Supabase, Postgres, Three.js">
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,java,git,github,vscode,vercel,docker,wordpress&perline=10" alt="Python, C, Java, Git, GitHub, VS Code, Vercel, Docker, WordPress">
+  <img src="https://skillicons.dev/icons?i=python,c,java,git,github,vscode,vercel,docker,wordpress,blender&perline=10" alt="Python, C, Java, Git, GitHub, VS Code, Vercel, Docker, WordPress, Blender">
 </p>
 
 **IA no dia a dia:** uso modelos generativos para prototipar, revisar código e automatizar tarefas repetitivas.
