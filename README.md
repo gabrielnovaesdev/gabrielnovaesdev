@@ -4,7 +4,7 @@
 
 Olá! Sou o **Gabriel**, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor front-end. Crio sites e interfaces com foco em visual cuidadoso, animação fluida e bom desempenho, e uso **IA generativa** como parte do processo, do protótipo ao deploy.
 
-Gosto de projetos que juntam design e engenharia: uma jornada 3D guiada pela rolagem, um site com cena 3D em WebGL, uma vitrine com vídeos otimizados para a web, o site institucional de uma clínica e escola, uma loja com checkout via Pix.
+Gosto de projetos que juntam design e engenharia: uma jornada 3D guiada pela rolagem, um site com cena 3D em WebGL, uma vitrine com vídeos otimizados para a web, sites institucionais de marcas reais (uma clínica e escola, uma marca de iPhones, uma consultoria para o varejo), uma loja com checkout via Pix.
 
 <p>
   <a href="https://linkedin.com/in/gabrielnovaesdev"><img src="https://img.shields.io/badge/LinkedIn-gabrielnovaesdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -25,6 +25,22 @@ Gosto de projetos que juntam design e engenharia: uma jornada 3D guiada pela rol
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://upclass-beta.vercel.app/"><img src="assets/upclass.webp" alt="Hero do site da Upclass com o logotipo em letras grandes sobre um palco de luz roxa" width="100%"></a>
+      <h3>Upclass</h3>
+      <p>Site institucional de uma marca de <b>iPhones e acessórios com procedência garantida</b>: raio 3D em WebGL, um filme da marca que acompanha a rolagem e palavras em perspectiva com objetos 3D. Com versão estática para quem prefere menos movimento.</p>
+      <p><code>Three.js</code> <code>GSAP</code> <code>Lenis</code> <code>Vite</code> <code>JavaScript</code></p>
+      <a href="https://upclass-beta.vercel.app/">Ver ao vivo</a> · <a href="https://github.com/gabrielnovaesdev/UpClass">Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://hubclass.vercel.app"><img src="assets/hubclass.webp" alt="Hero do site da Hubclass: Sua loja de iPhone lucrando com método" width="100%"></a>
+      <h3>Hubclass</h3>
+      <p>Site institucional de uma <b>consultoria e formação para lojas de iPhone</b>: home e duas páginas de oferta, filme em tela cheia que se recolhe na rolagem, traços feitos à mão em SVG e SEO técnico.</p>
+      <p><code>Vite</code> <code>Lenis</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <a href="https://hubclass.vercel.app">Ver ao vivo</a> · <a href="https://github.com/gabrielnovaesdev/HubClass">Código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://nebulaproject-nu.vercel.app"><img src="assets/nebula.webp" alt="Hero do site Nébula com o orbe de vidro e o anel de partículas" width="100%"></a>
       <h3>Nébula</h3>
       <p>Site de um estúdio fictício com <b>orbe de vidro líquido em WebGL</b>, 7 mil partículas em órbita e rolagem cinematográfica, sem nenhum framework.</p>
@@ -40,19 +56,12 @@ Gosto de projetos que juntam design e engenharia: uma jornada 3D guiada pela rol
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <a href="https://orbita-eta-three.vercel.app/"><img src="assets/orbita.webp" alt="Página inicial da Órbita, loja da linha iPhone 17" width="100%"></a>
       <h3>Órbita</h3>
       <p>Vitrine da linha iPhone 17 com os aparelhos em movimento. Os vídeos foram convertidos para <b>WebM</b>: 80% mais leves e em loop contínuo.</p>
       <p><code>JavaScript</code> <code>GSAP</code> <code>Node.js</code> <code>ffmpeg</code></p>
       <a href="https://orbita-eta-three.vercel.app/">Ver ao vivo</a> · <a href="https://github.com/gabrielnovaesdev/Iphone">Código</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://gabrielnovaesdev.github.io/Clone-de-Interface-do-Spotify/"><img src="assets/spotify.webp" alt="Clone da página inicial do Spotify" width="100%"></a>
-      <h3>Clone do Spotify</h3>
-      <p>Recriação responsiva da landing page do Spotify, feita para treinar layout, semântica e responsividade.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>Bootstrap</code></p>
-      <a href="https://gabrielnovaesdev.github.io/Clone-de-Interface-do-Spotify/">Ver ao vivo</a> · <a href="https://github.com/gabrielnovaesdev/Clone-de-Interface-do-Spotify">Código</a>
     </td>
   </tr>
 </table>
