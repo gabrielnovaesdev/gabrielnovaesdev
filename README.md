@@ -25,7 +25,7 @@ Gosto de projetos que juntam design e engenharia: uma jornada 3D guiada pela rol
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://upclass-beta.vercel.app/"><img src="assets/upclass.webp" alt="Hero do site da Upclass com o logotipo em letras grandes sobre um palco de luz roxa" width="100%"></a>
+      <a href="https://upclass-beta.vercel.app/"><img src="assets/upclass-hero.webp" alt="Hero do site da Upclass com o logotipo em letras grandes sobre um palco de luz roxa" width="100%"></a>
       <h3>Upclass</h3>
       <p>Site institucional de uma marca de <b>iPhones e acessórios com procedência garantida</b>: raio 3D em WebGL, um filme da marca que acompanha a rolagem e palavras em perspectiva com objetos 3D. Com versão estática para quem prefere menos movimento.</p>
       <p><code>Three.js</code> <code>GSAP</code> <code>Lenis</code> <code>Vite</code> <code>JavaScript</code></p>
