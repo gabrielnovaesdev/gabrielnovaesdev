@@ -1,126 +1,126 @@
-<img src="assets/banner.svg" alt="Gabriel Novaes, desenvolvedor front-end" width="100%">
+<img src="assets/banner.svg" alt="Gabriel Novaes, front-end developer" width="100%">
 
 <br>
 
-Olá! Sou o **Gabriel**, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor front-end. Crio sites e interfaces com foco em direção de arte, animação fluida e desempenho, e uso **IA generativa, agentes e MCP** como parte do processo, do protótipo ao deploy.
+Hi! I'm **Gabriel**, a front-end developer with a degree in Systems Analysis and Development and **over a year of experience** in the field. I build websites and interfaces with a focus on art direction, fluid animation and performance, and I use **generative AI, agents and MCP** as part of my process, from prototype to deploy.
 
-Gosto de projetos que juntam design e engenharia: uma jornada 3D guiada pela rolagem, um site com cena WebGL, uma landing com título em metal líquido, sites de marcas reais (uma clínica e escola, uma marca de iPhones, uma plataforma de educação para o mercado mobile, uma pizzaria) e uma loja com checkout via Pix.
+I like projects where design meets engineering: a 3D journey driven by scroll, a site with a WebGL scene, a landing page with a liquid-metal headline, sites for real brands (a clinic and school, an iPhone brand, a mobile-market education platform, a pizzeria) and a store with Pix checkout.
 
 <p>
   <a href="https://linkedin.com/in/gabrielnovaesdev"><img src="https://img.shields.io/badge/LinkedIn-gabrielnovaesdev-c9c9c9?style=flat-square&labelColor=18181b" alt="LinkedIn"></a>
-  <img src="https://komarev.com/ghpvc/?username=gabrielnovaesdev&label=visitas&color=8e8e8e&style=flat-square" alt="Visitas ao perfil">
+  <img src="https://komarev.com/ghpvc/?username=gabrielnovaesdev&label=profile%20views&color=8e8e8e&style=flat-square" alt="Profile views">
 </p>
 
-## Projetos em destaque
+## Featured projects
 
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://monolito-three.vercel.app"><img src="assets/monolito.webp" alt="Hero do site Monólito: um monólito de pedra no deserto ao entardecer" width="100%"></a>
+      <a href="https://monolito-three.vercel.app"><img src="assets/monolito.webp" alt="Hero of the Monólito site: a stone monolith in the desert at dusk" width="100%"></a>
       <h3>Monólito</h3>
-      <p>Site de um estúdio de arquitetura fictício feito como <b>uma única jornada 3D guiada pela rolagem</b>: um monólito no deserto se abre, a câmera atravessa um corredor de luz e entra em quatro projetos em escala real. Luz de HDRIs reais, pós-processamento cinematográfico e edifícios modelados por scripts Python no Blender, com versão mais leve para o celular.</p>
+      <p>Website for a fictional architecture studio built as <b>a single 3D journey driven by scroll</b>: a monolith in the desert opens up, the camera crosses a corridor of light and enters four full-scale projects. Lighting from real HDRIs, cinematic post-processing and buildings modeled with Python scripts in Blender, with a lighter version for mobile.</p>
       <p><code>Three.js</code> <code>WebGL</code> <code>GSAP</code> <code>Lenis</code> <code>Blender</code> <code>JavaScript</code></p>
-      <a href="https://monolito-three.vercel.app">Ver ao vivo</a> · <a href="https://github.com/gabrielnovaesdev/monolito">Código</a>
+      <a href="https://monolito-three.vercel.app">Live demo</a> · <a href="https://github.com/gabrielnovaesdev/monolito">Code</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://upclass-beta.vercel.app/"><img src="assets/upclass-hero.webp" alt="Hero do site da Upclass com o logotipo em letras grandes sobre um palco de luz roxa" width="100%"></a>
+      <a href="https://upclass-beta.vercel.app/"><img src="assets/upclass-hero.webp" alt="Hero of the Upclass site with the logo in large letters over a stage of purple light" width="100%"></a>
       <h3>Upclass</h3>
-      <p>Site institucional de uma marca de <b>iPhones e acessórios com procedência garantida</b>: raio 3D em WebGL, um filme da marca que acompanha a rolagem e palavras em perspectiva com objetos 3D. Fotos em AVIF e WebP e versão estática para quem prefere menos movimento.</p>
+      <p>Corporate site for a brand of <b>iPhones and accessories with guaranteed provenance</b>: a 3D lightning bolt in WebGL, a brand film that follows the scroll, and words in perspective with 3D objects. Photos in AVIF and WebP, and a static version for people who prefer less motion.</p>
       <p><code>Three.js</code> <code>GSAP</code> <code>Lenis</code> <code>Vite</code></p>
-      <a href="https://upclass-beta.vercel.app/">Ver ao vivo</a> · <a href="https://github.com/gabrielnovaesdev/UpClass">Código</a>
+      <a href="https://upclass-beta.vercel.app/">Live demo</a> · <a href="https://github.com/gabrielnovaesdev/UpClass">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://hubclass.vercel.app"><img src="assets/hubclass.webp" alt="Hero da landing da Hub Academy: BLACK FRIDAY em metal líquido sobre fundo azul, com preço e contagem regressiva" width="100%"></a>
+      <a href="https://hubclass.vercel.app"><img src="assets/hubclass.webp" alt="Hero of the Hub Academy landing page: BLACK FRIDAY in liquid metal on a blue background, with price and countdown" width="100%"></a>
       <h3>Hubclass</h3>
-      <p>Landing da <b>Black Friday da Hub Academy</b>, plataforma de educação para o mercado mobile: título em metal líquido, fumaça em WebGL, carrossel de especialistas e contagem regressiva. Loops gerados no Google Flow.</p>
+      <p>Black Friday landing page for <b>Hub Academy</b>, an education platform for the mobile market: liquid-metal headline, WebGL smoke, an expert carousel and a countdown. Loops generated in Google Flow.</p>
       <p><code>Vite</code> <code>GSAP</code> <code>OGL</code> <code>Lenis</code></p>
-      <a href="https://hubclass.vercel.app">Ver ao vivo</a> · <a href="https://github.com/gabrielnovaesdev/HubClass">Código</a>
+      <a href="https://hubclass.vercel.app">Live demo</a> · <a href="https://github.com/gabrielnovaesdev/HubClass">Code</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://nebulaproject-nu.vercel.app"><img src="assets/nebula.webp" alt="Hero do site Nébula com o orbe de vidro e o anel de partículas" width="100%"></a>
+      <a href="https://nebulaproject-nu.vercel.app"><img src="assets/nebula.webp" alt="Hero of the Nébula site with the glass orb and the particle ring" width="100%"></a>
       <h3>Nébula</h3>
-      <p>Site de um estúdio fictício, sem nenhum framework. O hero é um vídeo gerado no <b>Google Flow (Veo)</b> em loop contínuo, com plano B em <b>orbe de vidro líquido em WebGL</b> e 7 mil partículas em órbita.</p>
+      <p>Website for a fictional studio, with no framework at all. The hero is a seamless-loop video generated in <b>Google Flow (Veo)</b>, with a fallback in the form of a <b>liquid-glass orb in WebGL</b> and 7,000 particles in orbit.</p>
       <p><code>Three.js</code> <code>GSAP</code> <code>Lenis</code> <code>Google Flow</code></p>
-      <a href="https://nebulaproject-nu.vercel.app">Ver ao vivo</a> · <a href="https://github.com/gabrielnovaesdev/Nebula">Código</a>
+      <a href="https://nebulaproject-nu.vercel.app">Live demo</a> · <a href="https://github.com/gabrielnovaesdev/Nebula">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://pizzaria-cinthya.vercel.app/"><img src="assets/pizzaria.webp" alt="Boca do forno a lenha com fogo aceso e a frase: Desde 1990, o forno nunca apagou" width="100%"></a>
+      <a href="https://pizzaria-cinthya.vercel.app/"><img src="assets/pizzaria.webp" alt="Mouth of a wood-fired oven with the fire lit and the phrase: Since 1990, the oven has never gone out" width="100%"></a>
       <h3>Pizzaria Cinthya</h3>
-      <p>Landing de um <b>restaurante e pizzaria em Nova Iguaçu (RJ)</b>, desde 1990. Hero com vídeo do forno, cardápio, avaliações do Google e reserva ou pedido pelo WhatsApp em um toque. Contatos e links centralizados em um único arquivo de configuração.</p>
+      <p>Landing page for a <b>restaurant and pizzeria in Nova Iguaçu (Rio de Janeiro)</b>, open since 1990. Hero with a video of the oven, menu, Google reviews and booking or ordering through WhatsApp in one tap. Contacts and links are centralized in a single configuration file.</p>
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <a href="https://pizzaria-cinthya.vercel.app/">Ver ao vivo</a> · <sub>projeto de cliente, código privado</sub>
+      <a href="https://pizzaria-cinthya.vercel.app/">Live demo</a> · <sub>client project, private code</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://siterosazul.vercel.app/"><img src="assets/rosazul.webp" alt="Página inicial do site da Rosazul" width="100%"></a>
+      <a href="https://siterosazul.vercel.app/"><img src="assets/rosazul.webp" alt="Home page of the Rosazul site" width="100%"></a>
       <h3>Rosazul</h3>
-      <p>Site institucional de uma <b>clínica multidisciplinar e escola inclusiva</b> em Vila Isabel (RJ): especialidades, equipe, convênios e contato com mapa.</p>
+      <p>Corporate site for a <b>multidisciplinary clinic and inclusive school</b> in Vila Isabel (Rio de Janeiro): specialties, team, health plans and contact with a map.</p>
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <a href="https://siterosazul.vercel.app/">Ver ao vivo</a>
+      <a href="https://siterosazul.vercel.app/">Live demo</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://orbita-eta-three.vercel.app/"><img src="assets/orbita.webp" alt="Página inicial da Órbita, loja da linha iPhone 17" width="100%"></a>
+      <a href="https://orbita-eta-three.vercel.app/"><img src="assets/orbita.webp" alt="Home page of Órbita, a store for the iPhone 17 line" width="100%"></a>
       <h3>Órbita</h3>
-      <p>Vitrine da linha iPhone 17 com os aparelhos em movimento. Os vídeos foram convertidos para <b>WebM</b>: 80% mais leves e em loop contínuo.</p>
+      <p>Showcase for the iPhone 17 line with the devices in motion. The videos were converted to <b>WebM</b>: 80% lighter and looping seamlessly.</p>
       <p><code>JavaScript</code> <code>GSAP</code> <code>Node.js</code></p>
-      <a href="https://orbita-eta-three.vercel.app/">Ver ao vivo</a> · <a href="https://github.com/gabrielnovaesdev/Iphone">Código</a>
+      <a href="https://orbita-eta-three.vercel.app/">Live demo</a> · <a href="https://github.com/gabrielnovaesdev/Iphone">Code</a>
     </td>
   </tr>
 </table>
 
-### Mais projetos
+### More projects
 
-| Projeto | O que é | Stack |
+| Project | What it is | Stack |
 |---|---|---|
-| [NovaeStore](https://github.com/gabrielnovaesdev/NovaeStore) | Loja de jogos digitais com checkout via Pix, pagamento acompanhado em tempo real e webhook seguro · [ver ao vivo](https://gabrielnovaesdev.github.io/NovaeStore/) | React, TypeScript, Supabase |
-| [BarberGo](https://github.com/gabrielnovaesdev/BarberGo) | App de barbeiro em domicílio, do agendamento ao acompanhamento do atendimento | React Native, Expo |
-| [Portfólio](https://github.com/gabrielnovaesdev/portfolio) | Meu portfólio: abertura animada, reel e lista de projetos com vídeo de cada um | HTML, CSS, GSAP, Lenis |
-| [SpotifyRework](https://github.com/gabrielnovaesdev/SpotifyRework) | Recriação responsiva da landing page do Spotify, com o layout escrito à mão | HTML, CSS, Bootstrap |
+| [SpotifyRework](https://github.com/gabrielnovaesdev/SpotifyRework) | Redesign of the Spotify Premium landing page as a poster wall, with a GSAP motion system · [live demo](https://spotifyrework.vercel.app/) | React, TypeScript, Tailwind, GSAP |
+| [NovaeStore](https://github.com/gabrielnovaesdev/NovaeStore) | Digital game store with Pix checkout, real-time payment tracking and a secure webhook · [live demo](https://gabrielnovaesdev.github.io/NovaeStore/) | React, TypeScript, Supabase |
+| [BarberGo](https://github.com/gabrielnovaesdev/BarberGo) | At-home barber app, from booking to tracking the appointment | React Native, Expo |
+| [Portfolio](https://github.com/gabrielnovaesdev/portfolio) | My portfolio: animated intro, reel and a project list with a video of each one | HTML, CSS, GSAP, Lenis |
 
 <details>
-<summary><b>Estudos e projetos acadêmicos</b></summary>
+<summary><b>Coursework and study projects</b></summary>
 
 <br>
 
-| Projeto | O que é | Stack |
+| Project | What it is | Stack |
 |---|---|---|
-| [APS_POO](https://github.com/gabrielnovaesdev/APS_POO) | Projeto em grupo de Programação Orientada a Objetos | Java |
-| [Estudos-C](https://github.com/gabrielnovaesdev/Estudos-C) | Lógica, estruturas e registros em C e C++ | C, C++ |
-| [Estudos](https://github.com/gabrielnovaesdev/Estudos) | Algoritmos em pseudocódigo no VisuAlg | Portugol |
-| [Blog-tecnol-gico](https://github.com/gabrielnovaesdev/Blog-tecnol-gico) | Layout de blog, um dos primeiros projetos web | HTML, CSS |
-| [Jogo-da-velha](https://github.com/gabrielnovaesdev/Jogo-da-velha) | Jogo para dois jogadores no navegador | JavaScript, jQuery |
+| [APS_POO](https://github.com/gabrielnovaesdev/APS_POO) | Group project for Object-Oriented Programming | Java |
+| [Estudos-C](https://github.com/gabrielnovaesdev/Estudos-C) | Logic, data structures and records in C and C++ | C, C++ |
+| [Estudos](https://github.com/gabrielnovaesdev/Estudos) | Algorithms in pseudocode with VisuAlg | Portugol |
+| [Blog-tecnol-gico](https://github.com/gabrielnovaesdev/Blog-tecnol-gico) | Blog layout, one of my first web projects | HTML, CSS |
+| [Jogo-da-velha](https://github.com/gabrielnovaesdev/Jogo-da-velha) | Two-player game in the browser | JavaScript, jQuery |
 
 </details>
 
-## Como eu trabalho
+## How I work
 
-| Prática | Como aparece nos projetos |
+| Practice | How it shows up in my projects |
 |---|---|
-| **Direção de arte em 3D** | Cenas com HDRIs reais, materiais PBR, pós-processamento e modelos feitos por script no Blender. |
-| **Vídeo generativo no site** | Loops e aberturas gerados no Google Flow (Veo), com fundo removido por script e plano B em WebGL quando o vídeo não carrega. |
-| **Acessibilidade e desempenho** | `prefers-reduced-motion` respeitado, versão estática, navegação por teclado e versão mais leve para o celular. |
+| **3D art direction** | Scenes with real HDRIs, PBR materials, post-processing and models built by script in Blender. |
+| **Generative video on the web** | Loops and intros generated in Google Flow (Veo), with the background removed by script and a WebGL fallback when the video fails to load. |
+| **Accessibility and performance** | `prefers-reduced-motion` respected, a static version, keyboard navigation and a lighter version for mobile. |
 
 ## Stack
 
 <img src="assets/stack.svg" alt="Stack: HTML, CSS, JavaScript, TypeScript, React, Vite, Bootstrap, jQuery; Three.js, WebGL, GSAP, OGL, Lenis, Blender; Node.js, Supabase, PostgreSQL, Expo; Git, GitHub, Vercel, Docker, npm; Python, Java, C, C++, WordPress" width="100%">
 
-## IA e MCPs
+## AI and MCPs
 
-<img src="assets/ai-stack.svg" alt="IA no fluxo de trabalho: Claude, Claude Code, Gemini, ChatGPT, MCP; Google Flow, Veo, geração de imagens; Google AI Studio, NotebookLM" width="100%">
+<img src="assets/ai-stack.svg" alt="AI in my workflow: Claude, Claude Code, Gemini, ChatGPT, MCP; Google Flow, Veo, image generation; Google AI Studio, NotebookLM" width="100%">
 
-**MCP** (Model Context Protocol) liga o modelo às ferramentas do projeto: no meu fluxo, o Claude controla o navegador para testar e capturar telas. Os prompts de mídia são escritos com o Claude e os vídeos e imagens saem do Google Flow.
+**MCP** (Model Context Protocol) connects the model to the project's tools: in my workflow, Claude controls the browser to test pages and capture screenshots. Media prompts are written with Claude, and the videos and images come out of Google Flow.
 
-## Agora
+## Right now
 
-- Aprofundando em React, TypeScript e back-end serverless com Supabase
-- Estudando sites com 3D, câmera cinematográfica e animação guiada pela rolagem (GSAP e WebGL)
-- Integrando mídia gerada por IA (Google Flow) e agentes com MCP ao processo de criação de sites
+- Going deeper into React, TypeScript and serverless back-ends with Supabase
+- Studying 3D websites, cinematic cameras and scroll-driven animation (GSAP and WebGL)
+- Bringing AI-generated media (Google Flow) and MCP agents into my website-building process
 
 <br>
 
-<sub>Aberto a oportunidades e projetos. Me chame no <a href="https://linkedin.com/in/gabrielnovaesdev">LinkedIn</a>.</sub>
+<sub>Open to opportunities and projects. Reach me on <a href="https://linkedin.com/in/gabrielnovaesdev">LinkedIn</a>.</sub>
