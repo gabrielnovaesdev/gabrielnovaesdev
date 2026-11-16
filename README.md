@@ -6,13 +6,17 @@ Hi! I'm **Gabriel**, a **Brazilian** <img src="assets/br.svg" width="26" alt="Br
 
 I like projects where design meets engineering: a 3D journey driven by scroll, a site with a WebGL scene, a landing page with a liquid-metal headline, sites for real brands (a clinic and school, an iPhone brand, a mobile-market education platform, a pizzeria) and a store with Pix checkout.
 
-<p>
+<div align="center">
+
+<p align="center">
   <a href="mailto:gabrielnovaesdev@gmail.com"><img src="assets/contact-gmail.svg" alt="Email: gabrielnovaesdev@gmail.com" height="44"></a>
   <a href="https://linkedin.com/in/gabrielnovaesdev"><img src="assets/contact-linkedin.svg" alt="LinkedIn: gabrielnovaesdev" height="44"></a>
   <a href="https://www.instagram.com/gb__novaes/"><img src="assets/contact-instagram.svg" alt="Instagram: @gb__novaes" height="44"></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=gabrielnovaesdev&label=profile%20views&color=8e8e8e&style=flat-square" alt="Profile views">
+
+</div>
 
 ## Featured projects
 
