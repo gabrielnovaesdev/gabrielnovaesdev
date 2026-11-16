@@ -9,7 +9,7 @@ I like projects where design meets engineering: a 3D journey driven by scroll, a
 <div align="center">
 
 <p align="center">
-  <a href="mailto:gabrielnovaesdev@gmail.com"><img src="assets/contact-gmail.svg" alt="Email: gabrielnovaesdev@gmail.com" height="44"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielnovaesdev@gmail.com"><img src="assets/contact-gmail.svg" alt="Email: gabrielnovaesdev@gmail.com" height="44"></a>
   <a href="https://linkedin.com/in/gabrielnovaesdev"><img src="assets/contact-linkedin.svg" alt="LinkedIn: gabrielnovaesdev" height="44"></a>
   <a href="https://www.instagram.com/gb__novaes/"><img src="assets/contact-instagram.svg" alt="Instagram: @gb__novaes" height="44"></a>
 </p>
