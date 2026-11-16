@@ -2,7 +2,7 @@
 
 <br>
 
-Hi! I'm **Gabriel**, a **brazillian** front-end developer with a degree in Systems Analysis and Development and **over a year of experience** in the field. I build websites and interfaces with a focus on art direction, fluid animation and performance, and I use **generative AI, agents and MCP** as part of my process, from prototype to deploy.
+Hi! I'm **Gabriel**, a **Brazilian** 🇧🇷 front-end developer with a degree in Systems Analysis and Development and **over a year of experience** in the field. I build websites and interfaces with a focus on art direction, fluid animation and performance, and I use **generative AI, agents and MCP** as part of my process, from prototype to deploy.
 
 I like projects where design meets engineering: a 3D journey driven by scroll, a site with a WebGL scene, a landing page with a liquid-metal headline, sites for real brands (a clinic and school, an iPhone brand, a mobile-market education platform, a pizzeria) and a store with Pix checkout.
 
