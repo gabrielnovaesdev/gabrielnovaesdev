@@ -107,7 +107,7 @@ Gosto de projetos que juntam design e engenharia: uma jornada 3D guiada pela rol
 
 ## Stack
 
-<img src="assets/stack.svg" alt="Stack: HTML, CSS, JavaScript, TypeScript, React, Vite, Bootstrap, jQuery; Three.js, WebGL, GSAP, OGL, Lenis, Blender; Node.js, Supabase, PostgreSQL, Pix, Expo, WhatsApp; Git, GitHub, Vercel, Docker, npm, Chrome; Python, Java, C, C++, WordPress" width="100%">
+<img src="assets/stack.svg" alt="Stack: HTML, CSS, JavaScript, TypeScript, React, Vite, Bootstrap, jQuery; Three.js, WebGL, GSAP, OGL, Lenis, Blender; Node.js, Supabase, PostgreSQL, Expo; Git, GitHub, Vercel, Docker, npm; Python, Java, C, C++, WordPress" width="100%">
 
 ## IA e MCPs
 
