@@ -15,60 +15,63 @@ I like projects where design meets engineering: a 3D journey driven by scroll, a
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="25%" valign="top">
       <a href="https://monolito-three.vercel.app"><img src="assets/monolito.webp" alt="Hero of the Monólito site: a stone monolith in the desert at dusk" width="100%"></a>
-      <h3>Monólito</h3>
-      <p>Website for a fictional architecture studio built as <b>a single 3D journey driven by scroll</b>: a monolith in the desert opens up, the camera crosses a corridor of light and enters four full-scale projects. Lighting from real HDRIs, cinematic post-processing and buildings modeled with Python scripts in Blender, with a lighter version for mobile.</p>
-      <p><code>Three.js</code> <code>WebGL</code> <code>GSAP</code> <code>Lenis</code> <code>Blender</code> <code>JavaScript</code></p>
-      <a href="https://monolito-three.vercel.app">Live demo</a> · <a href="https://github.com/gabrielnovaesdev/monolito">Code</a>
+      <br><b>Monólito</b>
+      <br><sub>Fictional architecture studio as a single scroll-driven 3D journey, with buildings modeled in Blender.</sub>
+      <br><sub><code>Three.js</code> <code>WebGL</code> <code>GSAP</code> <code>Blender</code></sub>
+      <br><sub><a href="https://monolito-three.vercel.app">Live demo</a> · <a href="https://github.com/gabrielnovaesdev/monolito">Code</a></sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://upclass-beta.vercel.app/"><img src="assets/upclass-hero.webp" alt="Hero of the Upclass site with the logo in large letters over a stage of purple light" width="100%"></a>
-      <h3>Upclass</h3>
-      <p>Corporate site for a brand of <b>iPhones and accessories with guaranteed provenance</b>: a 3D lightning bolt in WebGL, a brand film that follows the scroll, and words in perspective with 3D objects. Photos in AVIF and WebP, and a static version for people who prefer less motion.</p>
-      <p><code>Three.js</code> <code>GSAP</code> <code>Lenis</code> <code>Vite</code></p>
-      <a href="https://upclass-beta.vercel.app/">Live demo</a> · <a href="https://github.com/gabrielnovaesdev/UpClass">Code</a>
+    <td width="25%" valign="top">
+      <a href="https://upclass-beta.vercel.app/"><img src="assets/upclass-hero.webp" alt="Upclass hero with the logo in large letters over a stage of purple light" width="100%"></a>
+      <br><b>Upclass</b>
+      <br><sub>iPhone brand site with a WebGL 3D bolt and a brand film that follows the scroll.</sub>
+      <br><sub><code>Three.js</code> <code>GSAP</code> <code>Lenis</code> <code>Vite</code></sub>
+      <br><sub><a href="https://upclass-beta.vercel.app/">Live demo</a> · <a href="https://github.com/gabrielnovaesdev/UpClass">Code</a></sub>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://hubclass.vercel.app"><img src="assets/hubclass.webp" alt="Hero of the Hub Academy landing page: BLACK FRIDAY in liquid metal on a blue background, with price and countdown" width="100%"></a>
-      <h3>Hubclass</h3>
-      <p>Black Friday landing page for <b>Hub Academy</b>, an education platform for the mobile market: liquid-metal headline, WebGL smoke, an expert carousel and a countdown. Loops generated in Google Flow.</p>
-      <p><code>Vite</code> <code>GSAP</code> <code>OGL</code> <code>Lenis</code></p>
-      <a href="https://hubclass.vercel.app">Live demo</a> · <a href="https://github.com/gabrielnovaesdev/HubClass">Code</a>
+    <td width="25%" valign="top">
+      <a href="https://hubclass.vercel.app"><img src="assets/hubclass.webp" alt="Hub Academy landing hero with BLACK FRIDAY in liquid metal" width="100%"></a>
+      <br><b>Hubclass</b>
+      <br><sub>Hub Academy landing with a liquid-metal headline, WebGL smoke and Google Flow loops.</sub>
+      <br><sub><code>Vite</code> <code>GSAP</code> <code>OGL</code> <code>Lenis</code></sub>
+      <br><sub><a href="https://hubclass.vercel.app">Live demo</a> · <a href="https://github.com/gabrielnovaesdev/HubClass">Code</a></sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <a href="https://nebulaproject-nu.vercel.app"><img src="assets/nebula.webp" alt="Hero of the Nébula site with the glass orb and the particle ring" width="100%"></a>
-      <h3>Nébula</h3>
-      <p>Website for a fictional studio, with no framework at all. The hero is a seamless-loop video generated in <b>Google Flow (Veo)</b>, with a fallback in the form of a <b>liquid-glass orb in WebGL</b> and 7,000 particles in orbit.</p>
-      <p><code>Three.js</code> <code>GSAP</code> <code>Lenis</code> <code>Google Flow</code></p>
-      <a href="https://nebulaproject-nu.vercel.app">Live demo</a> · <a href="https://github.com/gabrielnovaesdev/Nebula">Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://pizzaria-cinthya.vercel.app/"><img src="assets/pizzaria.webp" alt="Mouth of a wood-fired oven with the fire lit and the phrase: Since 1990, the oven has never gone out" width="100%"></a>
-      <h3>Pizzaria Cinthya</h3>
-      <p>Landing page for a <b>restaurant and pizzeria in Nova Iguaçu (Rio de Janeiro)</b>, open since 1990. Hero with a video of the oven, menu, Google reviews and booking or ordering through WhatsApp in one tap. Contacts and links are centralized in a single configuration file.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <a href="https://pizzaria-cinthya.vercel.app/">Live demo</a> · <sub>client project, private code</sub>
+      <br><b>Nébula</b>
+      <br><sub>Framework-free studio site: Google Flow (Veo) hero video with a liquid-glass WebGL orb fallback.</sub>
+      <br><sub><code>Three.js</code> <code>GSAP</code> <code>Lenis</code> <code>Google Flow</code></sub>
+      <br><sub><a href="https://nebulaproject-nu.vercel.app">Live demo</a> · <a href="https://github.com/gabrielnovaesdev/Nebula">Code</a></sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://siterosazul.vercel.app/"><img src="assets/rosazul.webp" alt="Home page of the Rosazul site" width="100%"></a>
-      <h3>Rosazul</h3>
-      <p>Corporate site for a <b>multidisciplinary clinic and inclusive school</b> in Vila Isabel (Rio de Janeiro): specialties, team, health plans and contact with a map.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <a href="https://siterosazul.vercel.app/">Live demo</a>
+    <td width="25%" valign="top">
+      <a href="https://pizzaria-cinthya.vercel.app/"><img src="assets/pizzaria.webp" alt="Wood-fired oven with a lit fire and the phrase: Since 1990, the oven never went out" width="100%"></a>
+      <br><b>Pizzaria Cinthya</b>
+      <br><sub>Pizzeria landing in Nova Iguaçu (RJ), with an oven video and ordering via WhatsApp.</sub>
+      <br><sub><code>HTML</code> <code>CSS</code> <code>JavaScript</code></sub>
+      <br><sub><a href="https://pizzaria-cinthya.vercel.app/">Live demo</a> · client project, private code</sub>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://orbita-eta-three.vercel.app/"><img src="assets/orbita.webp" alt="Home page of Órbita, a store for the iPhone 17 line" width="100%"></a>
-      <h3>Órbita</h3>
-      <p>Showcase for the iPhone 17 line with the devices in motion. The videos were converted to <b>WebM</b>: 80% lighter and looping seamlessly.</p>
-      <p><code>JavaScript</code> <code>GSAP</code> <code>Node.js</code></p>
-      <a href="https://orbita-eta-three.vercel.app/">Live demo</a> · <a href="https://github.com/gabrielnovaesdev/Iphone">Code</a>
+    <td width="25%" valign="top">
+      <a href="https://orbita-eta-three.vercel.app/"><img src="assets/orbita.webp" alt="Órbita home page, store for the iPhone 17 line" width="100%"></a>
+      <br><b>Órbita</b>
+      <br><sub>iPhone 17 showcase with WebM videos, 80% lighter and looping.</sub>
+      <br><sub><code>JavaScript</code> <code>GSAP</code> <code>Node.js</code></sub>
+      <br><sub><a href="https://orbita-eta-three.vercel.app/">Live demo</a> · <a href="https://github.com/gabrielnovaesdev/Iphone">Code</a></sub>
+    </td>
+    <td width="25%" valign="top">
+      <a href="https://siterosazul.vercel.app/"><img src="assets/rosazul.webp" alt="Rosazul home page" width="100%"></a>
+      <br><b>Rosazul</b>
+      <br><sub>Site for a multidisciplinary clinic and inclusive school in Vila Isabel (RJ).</sub>
+      <br><sub><code>HTML</code> <code>CSS</code> <code>JavaScript</code></sub>
+      <br><sub><a href="https://siterosazul.vercel.app/">Live demo</a></sub>
+    </td>
+    <td width="25%" valign="top">
+      <a href="https://spotifyrework.vercel.app/"><img src="assets/spotifyrework.webp" alt="SpotifyRework home screen: the word PREMIUM over the green Spotify symbol" width="100%"></a>
+      <br><b>SpotifyRework</b>
+      <br><sub>Spotify Premium landing redesigned as an animated poster wall.</sub>
+      <br><sub><code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>GSAP</code></sub>
+      <br><sub><a href="https://spotifyrework.vercel.app/">Live demo</a> · <a href="https://github.com/gabrielnovaesdev/SpotifyRework">Code</a></sub>
     </td>
   </tr>
 </table>
@@ -77,7 +80,6 @@ I like projects where design meets engineering: a 3D journey driven by scroll, a
 
 | Project | What it is | Stack |
 |---|---|---|
-| [SpotifyRework](https://github.com/gabrielnovaesdev/SpotifyRework) | Redesign of the Spotify Premium landing page as a poster wall, with a GSAP motion system · [live demo](https://spotifyrework.vercel.app/) | React, TypeScript, Tailwind, GSAP |
 | [NovaeStore](https://github.com/gabrielnovaesdev/NovaeStore) | Digital game store with Pix checkout, real-time payment tracking and a secure webhook · [live demo](https://gabrielnovaesdev.github.io/NovaeStore/) | React, TypeScript, Supabase |
 | [BarberGo](https://github.com/gabrielnovaesdev/BarberGo) | At-home barber app, from booking to tracking the appointment | React Native, Expo |
 | [Portfolio](https://github.com/gabrielnovaesdev/portfolio) | My portfolio: animated intro, reel and a project list with a video of each one | HTML, CSS, GSAP, Lenis |
