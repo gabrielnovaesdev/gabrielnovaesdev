@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 504" width="720" height="504" role="img" aria-label="Brazilian flag">
+  <rect width="720" height="504" rx="28" fill="#009c3b"/>
+  <polygon points="360,52 668,252 360,452 52,252" fill="#ffdf00"/>
+  <circle cx="360" cy="252" r="150" fill="#002776"/>
+  <clipPath id="c"><circle cx="360" cy="252" r="150"/></clipPath>
+  <path d="M 190 290 Q 360 190 530 270" fill="none" stroke="#ffffff" stroke-width="26" clip-path="url(#c)"/>
+</svg>
