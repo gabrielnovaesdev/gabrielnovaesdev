@@ -4,7 +4,7 @@
 
 Olá! Sou o **Gabriel**, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor front-end. Crio sites e interfaces com foco em visual cuidadoso, animação fluida e bom desempenho, e uso **IA generativa** como parte do processo, do protótipo ao deploy.
 
-Gosto de projetos que juntam design e engenharia: uma jornada 3D guiada pela rolagem, um site com cena 3D em WebGL, uma vitrine com vídeos otimizados para a web, sites institucionais de marcas reais (uma clínica e escola, uma marca de iPhones, uma consultoria para o varejo), uma loja com checkout via Pix.
+Gosto de projetos que juntam design e engenharia: uma jornada 3D guiada pela rolagem, um site com cena 3D em WebGL, uma vitrine com vídeos otimizados para a web, sites de marcas reais (uma clínica e escola, uma marca de iPhones, uma plataforma de educação para o mercado mobile, uma pizzaria), uma loja com checkout via Pix.
 
 <p>
   <a href="https://linkedin.com/in/gabrielnovaesdev"><img src="https://img.shields.io/badge/LinkedIn-gabrielnovaesdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -32,10 +32,10 @@ Gosto de projetos que juntam design e engenharia: uma jornada 3D guiada pela rol
       <a href="https://upclass-beta.vercel.app/">Ver ao vivo</a> · <a href="https://github.com/gabrielnovaesdev/UpClass">Código</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://hubclass.vercel.app"><img src="assets/hubclass.webp" alt="Hero do site da Hubclass: Sua loja de iPhone lucrando com método" width="100%"></a>
+      <a href="https://hubclass.vercel.app"><img src="assets/hubclass.webp" alt="Hero da landing da Hub Academy: BLACK FRIDAY em metal líquido sobre fundo azul, com preço e contagem regressiva" width="100%"></a>
       <h3>Hubclass</h3>
-      <p>Site institucional de uma <b>consultoria e formação para lojas de iPhone</b>: home e duas páginas de oferta, filme em tela cheia que se recolhe na rolagem, traços feitos à mão em SVG e SEO técnico.</p>
-      <p><code>Vite</code> <code>Lenis</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <p>Landing da <b>Black Friday da Hub Academy</b>, plataforma de educação para o mercado mobile: título em metal líquido, fumaça em WebGL, carrossel de especialistas, contagem regressiva e SEO técnico.</p>
+      <p><code>Vite</code> <code>GSAP</code> <code>OGL</code> <code>Lenis</code> <code>JavaScript</code></p>
       <a href="https://hubclass.vercel.app">Ver ao vivo</a> · <a href="https://github.com/gabrielnovaesdev/HubClass">Código</a>
     </td>
   </tr>
@@ -72,6 +72,8 @@ Gosto de projetos que juntam design e engenharia: uma jornada 3D guiada pela rol
 |---|---|---|
 | [NovaeStore](https://github.com/gabrielnovaesdev/NovaeStore) | Loja de jogos digitais com checkout via Pix, pagamento acompanhado em tempo real e webhook seguro · [ver ao vivo](https://gabrielnovaesdev.github.io/NovaeStore/) | React, TypeScript, Supabase |
 | [BarberGo](https://github.com/gabrielnovaesdev/BarberGo) | App de barbeiro em domicílio, do agendamento ao acompanhamento do atendimento | React Native, Expo |
+| [Portfólio](https://github.com/gabrielnovaesdev/portfolio) | Meu portfólio: abertura animada, reel e lista de projetos com vídeo de cada um | HTML, CSS, GSAP, Lenis |
+| [SpotifyRework](https://github.com/gabrielnovaesdev/SpotifyRework) | Recriação responsiva da landing page do Spotify, com o layout escrito à mão | HTML, CSS, Bootstrap |
 
 <details>
 <summary><b>Estudos e projetos acadêmicos</b></summary>
